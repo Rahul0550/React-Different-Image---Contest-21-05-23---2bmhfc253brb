@@ -7,7 +7,7 @@ const GIF = () => {
     <img className='import-image' height={200} src={programming} alt="programming-gif"/>
   )
 }
-const imageUrl = 'https://picsum.photos/id/460/260';
+const imageUrl = 'https://picsum.photos/id/400/200';
 
 const App = () => {
 
