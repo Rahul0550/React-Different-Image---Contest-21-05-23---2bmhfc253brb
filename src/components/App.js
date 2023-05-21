@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/App.css';
-import programming from "./assets/programing"
+import programming from "./assets/programming"
 
 const GIF = () => {
   return (
